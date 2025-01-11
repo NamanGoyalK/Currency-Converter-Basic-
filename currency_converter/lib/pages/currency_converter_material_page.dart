@@ -33,7 +33,6 @@ class _CurrencyConverterMaterialPageState
       ),
       borderRadius: BorderRadius.circular(5),
     );
-
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 54, 70, 79),
       appBar: AppBar(
